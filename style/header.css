@@ -1,6 +1,6 @@
 .cabeçalho{
 background-color: var(--branco);
-
+display: inline-block;
 }
 .cabeçalho__menu hamburguer{
     width: 24px;
