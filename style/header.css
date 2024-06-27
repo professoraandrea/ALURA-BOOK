@@ -8,6 +8,7 @@ justify-content: space-between;
     height: 24px;
     background-image: url("/IMG/Menu.svg");
     display: inline-block;
+    background-repeat: no-repeat;
 }
 
 .container{
