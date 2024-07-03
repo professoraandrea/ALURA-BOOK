@@ -8,15 +8,4 @@ justify-content: space-between;
     height: 24px;
     background-image: url("/IMG/Menu.svg");
     display: inline-block;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.container{
-    display: flex;
-    align-items: center;
-}
-
-.container__imagem{
-    padding: 1em;
-}
+    
