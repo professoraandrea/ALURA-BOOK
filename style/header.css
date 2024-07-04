@@ -26,6 +26,8 @@ justify-content: space-between;
     display: none;
     position: absolute;
     top: 100%;
+    padding: 1em;
+    background-color: var(--branco);
 }
 
 .container__botao:checked~.lista-menu{
@@ -34,4 +36,11 @@ justify-content: space-between;
 
 .container__botao{
     display: none;
+}
+
+.lista-menu__titulo{
+    color: var(laranja);
+    font-weight: 700;
+    padding: 1em;
+
 }
