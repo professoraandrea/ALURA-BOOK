@@ -41,6 +41,5 @@ justify-content: space-between;
 .lista-menu__titulo{
     color: var(laranja);
     font-weight: 700;
-    padding: 1em;
-
+    
 }
