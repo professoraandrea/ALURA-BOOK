@@ -33,5 +33,6 @@ background-clip: text;
     color: var(--azul);
     background: url(../IMG/Email.svg) no-repeat;
     padding-left: 2em;
+    text-align: center;
 
 }
