@@ -1,0 +1,14 @@
+.contato{
+    background: var(--branco);
+    padding: 1em;
+}
+
+.contato__título{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.contato__texto{
+    font-weight: 300;
+    margin: 1em 0;
+}
