@@ -27,3 +27,11 @@ background-clip: text;
     width: 100;
     color: var(--azul);
 }
+
+.contato__email::placeholder{
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url(../IMG/Email.svg) no-repeat;
+    padding-left: 2em;
+
+}
